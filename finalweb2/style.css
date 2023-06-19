@@ -1,0 +1,36 @@
+* body{
+    background-color: pink;
+    scroll-behavior: smooth;
+}
+
+.jumbotron img{
+    width: 150px;
+    background-color: pink;
+}
+.lisa{
+    font-size: 20px;
+}
+.home{
+    background-color: #E4A5FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sosmed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.instagram, .whatsaap{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: palevioletred;
+}
+.follow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: pink;
+}
